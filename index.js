@@ -39,4 +39,4 @@ let messages = [
         like: 30000
     },
 ]
-console.log(messages[1].msg)
+console.log(messages[0].msg)
