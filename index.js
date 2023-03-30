@@ -40,3 +40,4 @@ let messages = [
     },
 ]
 console.log(messages[0].msg)
+console.log(messages[1].msg)
